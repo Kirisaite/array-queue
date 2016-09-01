@@ -129,5 +129,5 @@ public class ArrayQueue {
     storage.dequeue(12);
     storage.show();
   }  
-
+System.out.println("Thank you for using my program");
 }
